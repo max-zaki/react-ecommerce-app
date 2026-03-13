@@ -1,8 +1,8 @@
 # ShopReact — Advanced React E-Commerce Web App
 
-![CI/CD](https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/actions/workflows/main.yml/badge.svg)
+![CI/CD](https://github.com/max-zaki/react-ecommerce-app/actions/workflows/main.yml/badge.svg)
 
-**Live Demo:** [https://your-app.vercel.app](https://your-app.vercel.app) ← _replace with your Vercel URL after first deploy_
+**Live Demo:** [https://your-app.vercel.app](https://adv-react-ecommerce-web-app.vercel.app/)
 
 A fully-featured e-commerce web application built with **React**, **Redux Toolkit**, **React Query**, **React Router**, and **Firebase**. Products, users, and orders are all managed through **Firestore**, with **Firebase Authentication** for secure login. The project ships with a full **CI/CD pipeline** via GitHub Actions that runs automated tests on every push and deploys passing builds to Vercel.
 
